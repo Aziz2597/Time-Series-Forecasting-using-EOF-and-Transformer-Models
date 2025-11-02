@@ -49,14 +49,14 @@ The goal is to analyze the trade-off between **forecasting accuracy** and **comp
 
 ---
 
-## 📈 Results Summary
+## Results Summary
 - **EOF-based approach** improves computational efficiency with minimal loss in accuracy.  
 - **Direct Transformer forecasting** provides slightly higher accuracy at the cost of increased computation.  
 - **Diffusion model** effectively reconstructs sparse datasets, supporting robust data assimilation workflows.
 
 ---
 
-## 🚀 Future Work
+## Future Work
 - Extend to **multivariate and spatiotemporal forecasting**.
 - Incorporate **advanced diffusion-based assimilation** methods.
 - Explore **hybrid EOF-Transformer architectures** for improved performance.
